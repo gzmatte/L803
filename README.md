@@ -11,7 +11,7 @@ A batch to post-install Windows 1803
 
 </br> 
 
-`VALORANT NO LONGER WORKS IN 1803.`
+`VALORANT NO WORKS IN 1803.`
 
 `FACEIT/GC NOT EXPECTING TO WORK.`
 
