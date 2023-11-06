@@ -11,16 +11,10 @@ A batch to post-install Windows 1803
 
 </br> 
 
-`
-! DISCLAIMER !
-`
-`
-WINDOWS 1803 NO LONGER WORKS FOR VALORANT.
-FACEIT/GAMERSCLUB NOT EXPECTING TO WORK.
-`
-`
-If that matters for you, use my project "ATR"
-`
+`! DISCLAIMER !`
+`WINDOWS 1803 NO LONGER WORKS FOR VALORANT.`
+`FACEIT/GAMERSCLUB NOT EXPECTING TO WORK.`
+`If that matters for you, use my project "ATR"`
 
 ```
 What does this bat do?
