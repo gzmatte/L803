@@ -1,7 +1,6 @@
 # L803
 
-A batch to post-install Windows 1803 (RaxOS) [^1]
-[^1]: Iso Included in the batch file.
+A batch to post-install Windows 1803
 
 > This is a personal use project. [^x]
 [^x]: I JUST DOING THIS FOR LEARNING. MAYBE I RECOPILE CODE AND TWEAKS FROM OTHER PEOPLE, GIVING CREDITS. IF U WANNA REMOVE THIS CONTACT ME https://gzmatte.github.io
@@ -13,7 +12,7 @@ A batch to post-install Windows 1803 (RaxOS) [^1]
 </br> 
 
 `
-! DISCLAIMER !
+DISCLAIMER
 WINDOWS 1803 NO LONGER WORKS FOR VALORANT.
 FACEIT/GAMERSCLUB NOT EXPECTING TO WORK.
 If that matters for you, use my project "ATR"
