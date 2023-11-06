@@ -15,7 +15,7 @@ A batch to post-install Windows 1803
 
 `FACEIT/GC NOT EXPECTING TO WORK.`
 
-[`FOR THAT USE, GO TO /ATR`](https://www.github.com/gzmatte/ATR)
+[`FOR THAT, USE ATR`](https://www.github.com/gzmatte/ATR)
 
 
 ```
