@@ -11,13 +11,12 @@ A batch to post-install Windows 1803 (RaxOS) [^1]
 
 
 </br> 
-
+`
 ! DISCLAIMER !
 WINDOWS 1803 NO LONGER WORKS FOR VALORANT.
 FACEIT/GAMERSCLUB NOT EXPECTING TO WORK.
-
 If that matters for you, use my mirror [ATR](https://github.com/gzmatte/ATR) for any Windows 10/11.
-
+`
 
 ```
 What does this bat do?
