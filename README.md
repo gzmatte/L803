@@ -12,9 +12,13 @@ A batch to post-install Windows 1803
 </br> 
 
 `
-DISCLAIMER
+! DISCLAIMER !
+`
+`
 WINDOWS 1803 NO LONGER WORKS FOR VALORANT.
 FACEIT/GAMERSCLUB NOT EXPECTING TO WORK.
+`
+`
 If that matters for you, use my project "ATR"
 `
 
