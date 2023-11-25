@@ -1,12 +1,8 @@
-# L803
+![L803](https://github.com/gzmatte/L803/assets/117684932/65d6c09d-d8e7-463c-83fc-9d2dd53bce87)
+--------
+**A batch to post-install Windows 1803**
 
-A batch to post-install Windows 1803
-
-> This is a personal use project. [^x]
-[^x]: I JUST DOING THIS FOR LEARNING. MAYBE I RECOPILE CODE AND TWEAKS FROM OTHER PEOPLE, GIVING CREDITS. IF U WANNA REMOVE THIS CONTACT ME https://gzmatte.github.io
-
-
-### ★ [Download here](https://github.com/gzmatte/L803/releases/download/1/L803.bat)
+[<img src="https://github.com/gzmatte/trash/blob/main/48wx.png">](https://github.com/gzmatte/L803/releases/download/1/L803.bat)
 
 </br> 
 
