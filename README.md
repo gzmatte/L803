@@ -3,7 +3,6 @@
 **A batch to post-install Windows 1803**
 
 [<img src="https://github.com/gzmatte/trash/blob/main/48wx.png">](https://github.com/gzmatte/L803/releases/download/1/L803.bat)
-
 </br> 
 
 `VALORANT NO WORKS IN 1803.`
