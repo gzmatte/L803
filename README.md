@@ -9,7 +9,7 @@
 
 `FACEIT/GC NOT EXPECTING TO WORK.`
 
-[`SAME BAT FOR W10/11`](https://www.github.com/gzmatte/ATR)
+[`[SAME BAT FOR W10/11]`](https://www.github.com/gzmatte/ATR)
 
 
 ```
