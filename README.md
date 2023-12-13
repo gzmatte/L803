@@ -8,7 +8,9 @@
 
 `VALORANT NO WORKS IN 1803.`
 
-`FACEIT/GC NOT EXPECTING TO WORK.`
+`FACEIT/GC NOT GONNA WORK.`
+
+`NO HAGS IN 1803`
 
 [`[SAME BAT FOR W10/11]`](https://www.github.com/gzmatte/ATR)
 
@@ -36,7 +38,7 @@ What does this bat do?
 
 > Provides Steam Tweaks (Low RAM & CPU Usage).
 
-> Provides CS2 Tweaks
+> Provides CS2 Tweaks.
 
 > Installs Discord & Debloats it.
 
@@ -55,4 +57,4 @@ What does this bat do?
 ```
 > If Spotify isn't cracked, install [BlockTheSpot](https://github.com/mrpond/BlockTheSpot).
 
-_CREDITS: KernelPanic, Amitxv, Matishzz, Imribiy, Pablerso, Amd64fox, Gosheto, Rapado, CatGamerOP, Fernando, etc.._ 
+_CREDITS: RAXOS, KernelPanic, Amitxv, Matishzz, Imribiy, Pablerso, Amd64fox, Gosheto, Rapado, CatGamerOP, Fernando, etc.._ 
