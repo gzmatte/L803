@@ -9,7 +9,7 @@
 > [!WARNING]
 > VALORANT, FACEIT & GAMERSCLUB NO LONGER WORKS IN 1803.
 > 
-> Hardware Accelerated GPU Scheduling not implemented in this winver.
+> Windows 1803 hasn't had [HAGS](https://github.com/gzmatte/L803/assets/117684932/f6a472a6-c5e2-49e9-b6d8-6719962a1af4).
 
 [`[SAME BAT FOR W10/11]`](https://www.github.com/gzmatte/ATR)
 
