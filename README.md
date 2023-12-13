@@ -6,11 +6,10 @@
 [<img src="https://github.com/gzmatte/trash/blob/main/48wx.png">](https://github.com/gzmatte/L803/releases/download/1/L803.bat)
 </br> 
 
-`VALORANT NO WORKS IN 1803.`
-
-`FACEIT/GC NOT GONNA WORK.`
-
-`NO HAGS IN 1803.`
+> [!WARNING]
+> VALORANT NO WORKS IN 1803.
+> FACEIT/GC NOT GONNA WORK.
+> NO HAGS IN 1803.
 
 [`[SAME BAT FOR W10/11]`](https://www.github.com/gzmatte/ATR)
 
