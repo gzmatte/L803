@@ -9,7 +9,7 @@
 > [!WARNING]
 > VALORANT, FACEIT & GAMERSCLUB NO LONGER WORKS IN 1803.
 > 
-> Hardware Accelerated GPU Scheduling (HAGS) not exists in 1803.
+> Hardware Accelerated GPU Scheduling not implemented in this winver.
 
 [`[SAME BAT FOR W10/11]`](https://www.github.com/gzmatte/ATR)
 
