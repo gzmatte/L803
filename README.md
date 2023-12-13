@@ -8,7 +8,9 @@
 
 > [!WARNING]
 > VALORANT NO WORKS IN 1803.
+> 
 > FACEIT/GC NOT GONNA WORK.
+> 
 > NO HAGS IN 1803.
 
 [`[SAME BAT FOR W10/11]`](https://www.github.com/gzmatte/ATR)
