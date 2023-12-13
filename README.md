@@ -7,7 +7,7 @@
 </br> 
 
 > [!WARNING]
-> VALORANT, FACEIT & GAMERSCLUB NO LONGER WORKS IN 1803.
+> VALORANT/FACEIT/GAMERSCLUB NO LONGER WORKS IN 1803.
 > 
 > Windows 1803 hasn't had [HAGS](https://github.com/gzmatte/L803/assets/117684932/f6a472a6-c5e2-49e9-b6d8-6719962a1af4).
 
