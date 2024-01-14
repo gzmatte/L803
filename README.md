@@ -37,6 +37,8 @@ What does this bat do?
 
 > Provides Steam Tweaks (Low RAM & CPU Usage).
 
+> Provides Fortnite Tweaks.
+
 > Provides CS2 Tweaks.
 
 > Installs Discord & Debloats it.
